@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+}
+
+#projects {
+  background-color: #007bff;
+}
+
+/* warna */
+
+.nft-dark-bg {
+  background-color: #121212; /* Latar belakang hitam */
+  color: #ffffff; /* Warna teks putih */
+  /* Gantilah properti lain sesuai kebutuhan desain Anda */
+}
+
+.dark-blue-text {
+  color: #007bff; /* Teks biru tua */
+}
+
+/* Contoh kelas untuk teks merah tua */
+.dark-red-text {
+  color: #ff006e; /* Teks merah tua */
+}
